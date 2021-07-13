@@ -1,0 +1,17 @@
+body {
+    background-color: seagreen
+}
+
+button {
+    border-radius: 50%;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 12px solid violet;
+    color: darkblue
+}
+
+ul {
+    color: firebrick
+}

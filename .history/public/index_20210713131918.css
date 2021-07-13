@@ -1,0 +1,22 @@
+body {
+    background-color: seagreen;
+    display: flex;
+}
+
+button {
+    border-radius: 50%;
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 12px solid violet;
+    color: darkblue;
+    margin: 80px 0px 40px 80px;
+}
+
+ul {
+    color: firebrick;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    font-weight: 300px;
+}
